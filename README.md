@@ -1,2 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7752FE&height=300&section=header&text=StoneCat&fontColor=C2D9FF&fontSize=90&animation=fadeIn&fontAlignY=38&desc=typeScript%20javaScript%20rust%20golang&descAlignY=52&descAlign=60)
-<p align='center'> This is StoneCat's Github Workflow</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=StoneCat&fontAlign=70&desc=Web%20developer&descAlignY=80&descAlign=80)
+
+- - -
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=purple&labelColor=white"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=black&labelColor=white"> <img src="https://img.shields.io/badge/GoLand-00ADD8?style=for-the-badge&logo=goland&logoColor=blue&labelColor=white"> 
+
